@@ -1,6 +1,6 @@
 ## :sunflower: hello and welcome :sunflower:
 ### My name is Andrea and this is my Github-she's small but she's growing :hatching_chick:
-##### Below you'll find everything you need to get up to speed on who I am and what goes on in my code editor.  I'm continuously learning to make my code cleaner and more efficient-if you see something that could be made better, I'd love to hear about it!
+#### Below you'll find everything you need to get up to speed on who I am and what goes on in my code editor.  I'm continuously learning to make my code cleaner and more efficient-if you see something that could be made better, I'd love to hear about it!
 <!--
 **ajpirolo/ajpirolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
