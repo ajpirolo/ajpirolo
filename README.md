@@ -18,4 +18,4 @@
 
 :bug: Pronouns: she/they
 
-:full_moon_with_face: Fun fact: I am slowly but surely learning conversational Chinese in my spare time.  My friend even christened me with a Chinese name (裴安杰)!
+:full_moon_with_face: Fun fact: I am slowly learning conversational Chinese in my spare time.  My friend even christened me with a Chinese name (裴安杰)!
