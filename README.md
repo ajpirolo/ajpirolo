@@ -14,7 +14,7 @@
 
 :grey_question: Ask me about: centering divs within divs :sunglasses:
 
-:calling: How to reach me: email, phone, Linked In, or IG
+:calling: How to reach me: email, phone, [Linked In](https://www.linkedin.com/in/andreapirolo/), or, for more casual inquiries, my personal [Instagram](https://www.instagram.com/_andreapirolo_/)
 
 :bug: Pronouns: she/they
 
