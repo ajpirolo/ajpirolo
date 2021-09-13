@@ -14,8 +14,8 @@
 
 :grey_question: Ask me about: centering divs within divs :sunglasses:
 
-:calling: How to reach me: email, phone, [Linked In](https://www.linkedin.com/in/andreapirolo/), or, for more casual inquiries, my personal [Instagram](https://www.instagram.com/_andreapirolo_/)
+:calling: How to reach me: email, phone, [Linked In](https://www.linkedin.com/in/andreapirolo/) or, for more casual inquiries, my personal [Instagram](https://www.instagram.com/_andreapirolo_/)
 
 :bug: Pronouns: she/they
 
-:full_moon_with_face: Fun fact: TBD; I need time to think of a fun enough fact.
+:full_moon_with_face: Fun fact: I am slowly but surely learning conversational Chinese in my spare time.  My friend even christened me with a Chinese name (裴安杰)!
